@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @isgandarhasilov
 - 👀 I’m interested in WEB development
-- 🌱 I’m currently learning WEB programming
-- 💞️ I’m looking to collaborate on ...
+- 💻 I’m currently learning WEB programming
 - 📫 How to reach me: isgandar.hasilov@yahoo.com
 
 <!---
