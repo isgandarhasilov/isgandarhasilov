@@ -1,4 +1,4 @@
-![video](https://github.com/isgandarhasilov/isgandarhasilov/blob/main/bg-gif.gif)
+![video](https://github.com/isgandarhasilov/isgandarhasilov/blob/main/SneakyUnripeAssassinbug.gif)
 - 👋 Hi, I’m @isgandarhasilov
 - 👀 I’m interested in WEB development
 - 💻 I’m currently learning WEB programming
