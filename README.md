@@ -1,3 +1,4 @@
+![video](https://github.com/isgandarhasilov/isgandarhasilov/blob/main/200.gif)
 - 👋 Hi, I’m @isgandarhasilov
 - 👀 I’m interested in WEB development
 - 💻 I’m currently learning WEB programming
