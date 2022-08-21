@@ -1,6 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=isgandarhasilov)](https://github.com/isgandarhasilov/github-profile-trophy)
 ![Isgandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=isgandarhasilov&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgandarhasilov&layout=compact)](https://github.com/isgandarhasilov/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=isgandarhasilov&color=green)
 <!--
 ### Hi there 👋
 **isgandarhasilov/isgandarhasilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
